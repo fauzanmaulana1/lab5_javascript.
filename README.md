@@ -1,5 +1,5 @@
 # lab5_javascript.
-![fauzan - Copy](https://user-images.githubusercontent.com/101807419/163183445-8988545b-fc90-4f8d-bf27-112c39875345.JPG)
+<img src="fauzan - Copy.JPG" title="FAUZAN MAULANA" alt="FAUZAN MAULANA" class="120px" width="130px">
   
 ### - Fauzan Maulana
 ### - 312010115
