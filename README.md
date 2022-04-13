@@ -1,5 +1,6 @@
 # lab5_javascript.
 
+<ing scr="fuzan - Copy.JPG" title="FAUZAN MAULANA" alt="FAUZAN MAULANA" class="120px" width="130px">
 ### - Fauzan Maulana
 ### - 312010115
 ### - TI.20.D.1
