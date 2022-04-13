@@ -29,5 +29,14 @@ Form Button.
 ![image](https://user-images.githubusercontent.com/101807419/163177915-c2258ca1-7fd5-4229-964a-245f62c3adeb.png)
 ![image](https://user-images.githubusercontent.com/101807419/163178319-411da7a4-5cab-4e2d-8f79-0d8e63db03e8.png)
 
+# HTML DOM
+Pilihan menggunakan checkBox dengan perhitungan otomatis
+![image](https://user-images.githubusercontent.com/101807419/163179288-780bb44b-2132-4f2b-bc6e-d2594b5224ea.png)
+![image](https://user-images.githubusercontent.com/101807419/163179336-9a050f5c-4289-41ec-bcb3-01e82e7945c8.png)
+
+# Pertanyaan dan Tugas
+### 1. Buat script untuk melakukan validasi pada isian form.
+
+
 
 
