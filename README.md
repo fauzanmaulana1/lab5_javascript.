@@ -12,5 +12,9 @@ Pemakaian method dalam objek
 Pemakaian Prompt
 ![image](https://user-images.githubusercontent.com/101807419/163174120-7cca6087-4cfe-4394-80f5-6c87ddf1deac.png)
 Pembuatan fungsi dan cara pemanggilannya
-![image](https://user-images.githubusercontent.com/101807419/163174273-63082e33-4289-4a3b-a52e-c61bbc8ae01a.png)
+![image](https://user-images.githubusercontent.com/101807419/163175109-40cbbbcd-3552-45e3-9948-dd076b40004b.png)
+
+# Dasar Pemrograman Di Javascript
+Operasi dasar aritmatika
+![image](https://user-images.githubusercontent.com/101807419/163175537-62b865a7-d148-46e4-8402-600b224643cd.png)
 
