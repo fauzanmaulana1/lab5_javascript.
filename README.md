@@ -1,5 +1,9 @@
 # lab5_javascript.
 
+### - Fauzan Maulana
+### - 312010115
+### - TI.20.D.1
+
 ### Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut.
 ![image](https://user-images.githubusercontent.com/101807419/163172891-d4ca96d2-7d50-496c-a73d-08d863ab7f18.png)
 ![image](https://user-images.githubusercontent.com/101807419/163172962-999b0380-89f1-412c-bdfb-0a3f69c723e3.png)
