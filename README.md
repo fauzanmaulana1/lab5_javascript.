@@ -17,4 +17,17 @@ Pembuatan fungsi dan cara pemanggilannya
 # Dasar Pemrograman Di Javascript
 Operasi dasar aritmatika
 ![image](https://user-images.githubusercontent.com/101807419/163175537-62b865a7-d148-46e4-8402-600b224643cd.png)
+Seleksi kondisi (if..else)
+![image](https://user-images.githubusercontent.com/101807419/163175871-8d96defc-3cc2-43ac-9bed-1324636dcaee.png)
+Penggunaan operator switch untuk seleksi kondisi
+![image](https://user-images.githubusercontent.com/101807419/163176299-b6d7166c-a1be-4dbb-a451-d00c83fee8fc.png)
+![image](https://user-images.githubusercontent.com/101807419/163176379-84a9d341-d230-4da2-ab7e-2a7a98688f99.png)
+# Pembuatan Form
+Form Input
+![image](https://user-images.githubusercontent.com/101807419/163177219-67673c67-6387-441c-8607-418d3b6cadc3.png)
+Form Button.
+![image](https://user-images.githubusercontent.com/101807419/163177915-c2258ca1-7fd5-4229-964a-245f62c3adeb.png)
+![image](https://user-images.githubusercontent.com/101807419/163178043-fa1f954b-17b2-4139-9329-109355294192.png)
+
+
 
