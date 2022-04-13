@@ -36,6 +36,11 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 # Pertanyaan dan Tugas
 ### 1. Buat script untuk melakukan validasi pada isian form.
+![image](https://user-images.githubusercontent.com/101807419/163180917-a6501bc4-4ce6-4215-9771-0975b7816ef1.png)
+![image](https://user-images.githubusercontent.com/101807419/163181005-6bef1184-a70b-4432-9e01-b950bfcd92ff.png)
+### Hasil dari browser
+![image](https://user-images.githubusercontent.com/101807419/163181284-a3bd12f5-6e62-48eb-b24f-f4b82dca0876.png)
+
 
 
 
